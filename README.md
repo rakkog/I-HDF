@@ -1,4 +1,4 @@
-# I-HDF: Iterative Hybrid Differential Filtering
+# I-HDF: Iterative Hybrid Differential Filtering for Salt-and-Pepper Noise Removal
 
 Official repository for datasets and implementation of the **I-HDF** method.
 
