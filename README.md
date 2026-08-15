@@ -16,6 +16,6 @@ Currently, this repository hosts the benchmark datasets used in our evaluations.
 .
 ├── Datasets/
 │   ├── 12STI/      # Standard test images (12 images)
-│   ├── BSD68/      # Berkeley Segmentation Dataset (68 images)
+│   ├── BSD68/      # Berkeley segmentation dataset (68 images)
 │   └── Medical/    # Medical imaging dataset (10 images)
 └── README.md
