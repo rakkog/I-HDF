@@ -15,7 +15,8 @@ Currently, this repository hosts the benchmark datasets used in our evaluations.
 ```text
 .
 ├── Datasets/
-│   ├── 12STI/      # Standard test images (12 images)
-│   ├── BSD68/      # Berkeley segmentation dataset (68 images)
-│   └── Medical/    # Medical imaging dataset (10 images)
+│   ├── 12STI/        # Standard test images (12 images)
+│   ├── BSD68/        # Berkeley segmentation dataset (68 images)
+│   └── Medical/      # Medical imaging dataset (10 images)
 └── README.md
+└── I-HDF_Poster.pdf  $ Poster presentation for the EUSIPCO 2026 conference
