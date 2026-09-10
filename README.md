@@ -19,4 +19,4 @@ Currently, this repository hosts the benchmark datasets used in our evaluations.
 │   ├── BSD68/        # Berkeley segmentation dataset (68 images)
 │   └── Medical/      # Medical imaging dataset (10 images)
 └── README.md
-└── I-HDF_Poster.pdf  $ Poster presentation for the EUSIPCO 2026 conference
+└── I-HDF_Poster.pdf  # Poster presentation for the EUSIPCO 2026 conference
